@@ -1,0 +1,10 @@
+<DOCTYPE html>
+
+<!-- Комментарии пишутся вот так -->
+<html lang="ru">
+  <head>
+    <title> Практическое задание №1 </title>
+  </head>
+
+  <body>
+    /<a href="kubsu.ru"> Сайт КубГУ</a>
